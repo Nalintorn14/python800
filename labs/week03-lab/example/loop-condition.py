@@ -68,6 +68,9 @@ for num in range(1, 11):
     else:
         print(f"{num} เป็นเลขคี่")
 
+# ผลรัน
+
+
 print("\nDemo เกมทายตัวเลข (จำลอง):")
 import random
 secret_number = 7  # ใช้เลขตายตัวเพื่อ demo
